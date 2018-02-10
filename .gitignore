@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Jekyll Files and Folders
+_site/
+.idea/
+Gemfile.lock
