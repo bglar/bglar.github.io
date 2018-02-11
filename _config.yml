@@ -2,9 +2,9 @@ url: https://bglar.github.io
 #baseurl: /bglar.github.io
 
 # Site settings
-title: Brian Ogollah Glar
+title: Brian Glar
 email: bogolla4@gmail.com
-description: "Brian Ogollah's alternate universe of awesomeness and ingenuity. `The future belongs to those who believe in the beauty of their dreams`. So have a peep into my ideas, I know you want to"
+description: "Brian Glar's alternate universe of awesomeness and ingenuity. `The future belongs to those who believe in the beauty of their dreams`. So have a peep into my ideas, I know you want to"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -15,7 +15,9 @@ social:
   - title: stack-overflow
     url: http://stackoverflow.com/users/7206682/glar
   - title: github
-    url: http://github.com/bglar
+    url: http://github.com/bogolla
+  - title: linkedin
+    url: https://www.linkedin.com/in/brian-ogollah
 
 # Build settings
 markdown: kramdown
